@@ -1,16 +1,15 @@
-## Hi there 👋
+# STINOMENT
 
-<!--
-**stinoment/stinoment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are an IT agency. We build, fix and grow websites.
 
-Here are some ideas to get you started:
+## Our free WordPress plugin: Stinoment Growth Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A free WordPress check-up that finds problems on your site and fixes many of them in 1 click. Version 1.3.1 is out.
+
+Get it on WordPress.org: https://wordpress.org/plugins/stinoment-growth-assistant/
+
+Learn more: https://stinoment.com/growth-assistant/
+
+Our website: https://stinoment.com
+
+How to install: in your WordPress dashboard, go to Plugins > Add New and search for "stinoment".
